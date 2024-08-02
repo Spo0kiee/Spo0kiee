@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spo0kiee
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning to Code and start doing my Own Projects
 - 🌱 I’m currently learning C# and Python 
 - 💞️ I’m looking to collaborate on Different Platforms like Discord etc... 
 
